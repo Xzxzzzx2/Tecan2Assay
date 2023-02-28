@@ -66,3 +66,5 @@ for i in range(48):
 
 #fig.patch.set_facecolor('xkcd:beige')
 fig.patch.set_facecolor('xkcd:white')
+
+plt.show()
